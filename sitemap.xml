@@ -4,9 +4,17 @@
   <!-- Home Page -->
   <url>
     <loc>https://ek5.co.in/</loc>
-    <lastmod>2026-11-16</lastmod>
+    <lastmod>2026-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
+  </url>
+
+  <!-- New Games -->
+  <url>
+    <loc>https://ek5.co.in/new-games.html</loc>
+    <lastmod>2026-11-22</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
   </url>
 
   <!-- UPI Withdrawal Guide -->
